@@ -18,3 +18,7 @@ Git spurningar og svor
 	a) git diff synir mismun a commits
 	b) git diff --staged synir breytingarnar sem hafa verid settar upp fyrir naesta commit
 	c) git diff commit1 commit2 synir muninn a tveimur akvednum commits
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+	Utgafustyring er umsjon breytingar a skjolum, forritum, storum vefsidum og odrum sofnudum upplysingum. 
+
