@@ -41,3 +41,5 @@ Git spurningar og svor
 
 10.	Hvar er GIT helst notað?
 	GIT er helst notad af folki sem er ad vinna i hop verkefnum.
+
+Ingvar Vigfusson
