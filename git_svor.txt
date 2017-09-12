@@ -22,3 +22,6 @@ Git spurningar og svor
 4. 	Hvað er útgáfustýring (e.version control)? 
 	Utgafustyring er umsjon breytingar a skjolum, forritum, storum vefsidum og odrum sofnudum upplysingum. 
 
+5.	Hverjir eru helstu kostir við að nota GIT?
+	Thad er back-up af ollu sem thu hefur verid ad vinna a. Thu getur alltaf farid i fyrra version af thvi sem thu ert ad vinna a og nad i thad aftur. Git getur verid notad til thess ad margir geta verid ad vinna a thvi sama. 
+s
