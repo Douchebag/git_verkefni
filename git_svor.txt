@@ -6,3 +6,10 @@ Git spurningar og svor
 	ls prentar a skjainn lista yfir directories i directory-inu sem vid erum i
 	pwd prentar directory-id sem vid erum staddir i
 	mkdir byr til nytt directory
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone clone-ar repo inni nytt directory
+	git log birtir lista yfir commit skipunum
+	git status synir hversu langt local repo-id er a undan master branchinu
+	git diff synir mismun a commits 
+	git checkout notad til ad breyta um branch eda endurheimta hluti
