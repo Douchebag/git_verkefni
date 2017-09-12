@@ -32,3 +32,7 @@ Git spurningar og svor
 	Working directory er directory-id sem er verid ad vinna inn i.
 	Staging area er skra sem inniheldur upplysingar um hvad mun fara inni naesta commit-id thitt.
 	Repository er geymsla fyrir allar skrar o.fl. sem thu ert ad vinna med i git.
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+	Til daemis thegar margir eru ad vinna a einu verkefni er gott ad nota greinar. Thegar thu villt prufa eitthvad sem thu ert ekki viss um ad thu viljir endilega hafa i master-inu.
+
