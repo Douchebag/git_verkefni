@@ -24,4 +24,7 @@ Git spurningar og svor
 
 5.	Hverjir eru helstu kostir við að nota GIT?
 	Thad er back-up af ollu sem thu hefur verid ad vinna a. Thu getur alltaf farid i fyrra version af thvi sem thu ert ad vinna a og nad i thad aftur. Git getur verid notad til thess ad margir geta verid ad vinna a thvi sama. 
-s
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	Thad aetti ad vera gert commit eins oft og ad hann sem er ad vinna i verkefninu telur thorf fyrir. 
+
