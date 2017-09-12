@@ -36,3 +36,5 @@ Git spurningar og svor
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 	Til daemis thegar margir eru ad vinna a einu verkefni er gott ad nota greinar. Thegar thu villt prufa eitthvad sem thu ert ekki viss um ad thu viljir endilega hafa i master-inu.
 
+9.	Hver fann upp GIT?
+	Linus Torvalds er hann sem fann upp GIT.
