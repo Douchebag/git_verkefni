@@ -13,3 +13,8 @@ Git spurningar og svor
 	git status synir hversu langt local repo-id er a undan master branchinu
 	git diff synir mismun a commits 
 	git checkout notad til ad breyta um branch eda endurheimta hluti
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff synir mismun a commits
+	b) git diff --staged synir breytingarnar sem hafa verid settar upp fyrir naesta commit
+	c) git diff commit1 commit2 synir muninn a tveimur akvednum commits
