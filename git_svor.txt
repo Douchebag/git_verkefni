@@ -28,3 +28,7 @@ Git spurningar og svor
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	Thad aetti ad vera gert commit eins oft og ad hann sem er ad vinna i verkefninu telur thorf fyrir. 
 
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	Working directory er directory-id sem er verid ad vinna inn i.
+	Staging area er skra sem inniheldur upplysingar um hvad mun fara inni naesta commit-id thitt.
+	Repository er geymsla fyrir allar skrar o.fl. sem thu ert ad vinna med i git.
