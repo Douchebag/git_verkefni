@@ -1,1 +1,8 @@
-Git spurningar og sv-r
+Git spurningar og svor
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd breytir current directory i home directory
+	cd ~ breytir current directory i root directory
+	ls prentar a skjainn lista yfir directories i directory-inu sem vid erum i
+	pwd prentar directory-id sem vid erum staddir i
+	mkdir byr til nytt directory
